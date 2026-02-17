@@ -1,31 +1,31 @@
 {
   "color-primary": {
     "color-primary-25": {
-      "value": "{deep-sky.deep-sky-25}",
+      "value": "{brazilianite.brazilianite-25}",
       "type": "color"
     },
     "color-primary-50": {
-      "value": "{deep-sky.deep-sky-50}",
+      "value": "{brazilianite.brazilianite-50}",
       "type": "color"
     },
     "color-primary-75": {
-      "value": "{deep-sky.deep-sky-75}",
+      "value": "{brazilianite.brazilianite-75}",
       "type": "color"
     },
     "color-primary-100": {
-      "value": "{deep-sky.deep-sky-100}",
+      "value": "{brazilianite.brazilianite-100}",
       "type": "color"
     },
     "color-primary-125": {
-      "value": "{deep-sky.deep-sky-125}",
+      "value": "{brazilianite.brazilianite-125}",
       "type": "color"
     },
     "color-primary-150": {
-      "value": "{deep-sky.deep-sky-150}",
+      "value": "{brazilianite.brazilianite-150}",
       "type": "color"
     },
     "color-primary-175": {
-      "value": "{deep-sky.deep-sky-175}",
+      "value": "{brazilianite.brazilianite-175}",
       "type": "color"
     },
     "color-primary-opacity-04": {
