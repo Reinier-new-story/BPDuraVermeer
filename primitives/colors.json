@@ -1,56 +1,56 @@
 {
-  "deep-sky": {
-    "deep-sky-25": {
+  "green": {
+    "green-25": {
       "value": "oklch(0.82 0.04 185)",
       "type": "color"
     },
-    "deep-sky-50": {
+    "green-50": {
       "value": "oklch(0.68 0.06 185)",
       "type": "color"
     },
-    "deep-sky-75": {
+    "green-75": {
       "value": "oklch(0.55 0.075 185)",
       "type": "color"
     },
-    "deep-sky-100": {
+    "green-100": {
       "value": "oklch(0.42 0.09 185)",
       "type": "color"
     },
-    "deep-sky-125": {
+    "green-125": {
       "value": "oklch(0.36 0.085 185)",
       "type": "color"
     },
-    "deep-sky-150": {
+    "green-150": {
       "value": "oklch(0.30 0.08 185)",
       "type": "color"
     },
-    "deep-sky-175": {
+    "green-175": {
       "value": "oklch(0.24 0.07 185)",
       "type": "color"
     }
   },
-  "brazilianite": {
-    "brazilianite-25": {
+  "yellow": {
+    "yellow-25": {
       "value": "oklch(0.97 0.04 105)",
       "type": "color"
     },
-    "brazilianite-50": {
+    "yellow-50": {
       "value": "oklch(0.94 0.08 105)",
       "type": "color"
     },
-    "brazilianite-75": {
+    "yellow-75": {
       "value": "oklch(0.91 0.12 105)",
       "type": "color"
     },
-    "brazilianite-100": {
+    "yellow-100": {
       "value": "oklch(0.90 0.18 104)",
       "type": "color"
     },
-    "brazilianite-125": {
+    "yellow-125": {
       "value": "oklch(0.80 0.16 105)",
       "type": "color"
     },
-    "brazilianite-150": {
+    "yellow-150": {
       "value": "oklch(0.72 0.14 105)",
       "type": "color"
     },
