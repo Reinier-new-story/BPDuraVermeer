@@ -8,7 +8,7 @@
     "type": "color"
   },
   "color-frame-accent": {
-    "value": "{deep-sky.deep-sky-100}",
+    "value": "{green.green-100}",
     "type": "color"
   }
 }

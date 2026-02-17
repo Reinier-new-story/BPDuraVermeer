@@ -1,31 +1,31 @@
 {
   "color-success": {
     "color-success-25": {
-      "value": "{brazilianite.brazilianite-25}",
+      "value": "{yellow.yellow-25}",
       "type": "color"
     },
     "color-success-50": {
-      "value": "{brazilianite.brazilianite-50}",
+      "value": "{yellow.yellow-50}",
       "type": "color"
     },
     "color-success-75": {
-      "value": "{brazilianite.brazilianite-75}",
+      "value": "{yellow.yellow-75}",
       "type": "color"
     },
     "color-success-100": {
-      "value": "{brazilianite.brazilianite-100}",
+      "value": "{yellow.yellow-100}",
       "type": "color"
     },
     "color-success-125": {
-      "value": "{brazilianite.brazilianite-125}",
+      "value": "{yellow.yellow-125}",
       "type": "color"
     },
     "color-success-150": {
-      "value": "{brazilianite.brazilianite-150}",
+      "value": "{yellow.yellow-150}",
       "type": "color"
     },
     "color-success-175": {
-      "value": "{brazilianite.brazilianite-175}",
+      "value": "{yellow.yellow-175}",
       "type": "color"
     }
   },
@@ -121,31 +121,31 @@
   },
   "color-select": {
     "color-select-25": {
-      "value": "{deep-sky.deep-sky-25}",
+      "value": "{green.green-25}",
       "type": "color"
     },
     "color-select-50": {
-      "value": "{deep-sky.deep-sky-50}",
+      "value": "{green.green-50}",
       "type": "color"
     },
     "color-select-75": {
-      "value": "{deep-sky.deep-sky-75}",
+      "value": "{green.green-75}",
       "type": "color"
     },
     "color-select-100": {
-      "value": "{deep-sky.deep-sky-100}",
+      "value": "{green.green-100}",
       "type": "color"
     },
     "color-select-125": {
-      "value": "{deep-sky.deep-sky-125}",
+      "value": "{green.green-125}",
       "type": "color"
     },
     "color-select-150": {
-      "value": "{deep-sky.deep-sky-150}",
+      "value": "{green.green-150}",
       "type": "color"
     },
     "color-select-175": {
-      "value": "{deep-sky.deep-sky-175}",
+      "value": "{green.green-175}",
       "type": "color"
     }
   }

@@ -1,35 +1,35 @@
 {
   "color-primary": {
     "color-primary-25": {
-      "value": "{brazilianite.brazilianite-25}",
+      "value": "{yellow.yellow-25}",
       "type": "color"
     },
     "color-primary-50": {
-      "value": "{brazilianite.brazilianite-50}",
+      "value": "{yellow.yellow-50}",
       "type": "color"
     },
     "color-primary-75": {
-      "value": "{brazilianite.brazilianite-75}",
+      "value": "{yellow.yellow-75}",
       "type": "color"
     },
     "color-primary-100": {
-      "value": "{brazilianite.brazilianite-100}",
+      "value": "{yellow.yellow-100}",
       "type": "color"
     },
     "color-primary-125": {
-      "value": "{brazilianite.brazilianite-125}",
+      "value": "{yellow.yellow-125}",
       "type": "color"
     },
     "color-primary-150": {
-      "value": "{brazilianite.brazilianite-150}",
+      "value": "{yellow.yellow-150}",
       "type": "color"
     },
     "color-primary-175": {
-      "value": "{brazilianite.brazilianite-175}",
+      "value": "{yellow.yellow-175}",
       "type": "color"
     },
     "color-primary-opacity-04": {
-      "value": "{deep-sky.deep-sky-100}",
+      "value": "{green.green-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -42,7 +42,7 @@
       }
     },
     "color-primary-opacity-08": {
-      "value": "{deep-sky.deep-sky-100}",
+      "value": "{green.green-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -55,7 +55,7 @@
       }
     },
     "color-primary-opacity-12": {
-      "value": "{deep-sky.deep-sky-100}",
+      "value": "{green.green-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
