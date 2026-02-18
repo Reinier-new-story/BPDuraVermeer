@@ -91,27 +91,27 @@
   },
   "color-info": {
     "color-info-25": {
-      "value": "{wizard-blue.wizard-blue-25}",
+      "value": "{green.green-25}",
       "type": "color"
     },
     "color-info-50": {
-      "value": "{wizard-blue.wizard-blue-50}",
+      "value": "{green.green-50}",
       "type": "color"
     },
     "color-info-75": {
-      "value": "{wizard-blue.wizard-blue-75}",
+      "value": "{green.green-75}",
       "type": "color"
     },
     "color-info-100": {
-      "value": "{wizard-blue.wizard-blue-100}",
+      "value": "{green.green-100}",
       "type": "color"
     },
     "color-info-125": {
-      "value": "{wizard-blue.wizard-blue-125}",
+      "value": "{green.green-125}",
       "type": "color"
     },
     "color-info-150": {
-      "value": "{wizard-blue.wizard-blue-150}",
+      "value": "{green.green-150}",
       "type": "color"
     },
     "color-info-175": {
