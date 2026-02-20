@@ -44,7 +44,7 @@
     "type": "color"
   },
   "pagination-item-color-icon-active": {
-    "value": "{color-text-light.color-text-light-max}",
+    "value": "{color-text-dark.color-text-dark-max}",
     "type": "color"
   },
   "pagination-item-color-background": {
