@@ -275,31 +275,31 @@
   },
   "accent": {
     "color-accent-25": {
-      "value": "#fefcf8",
+      "value": "{green.green-25}",
       "type": "color"
     },
     "color-accent-50": {
-      "value": "#f0cba4",
+      "value": "{green.green-50}",
       "type": "color"
     },
     "color-accent-75": {
-      "value": "#ed9a4a",
+      "value": "{green.green-75}",
       "type": "color"
     },
     "color-accent-100": {
-      "value": "#eb6600",
+      "value": "{green.green-100}",
       "type": "color"
     },
     "color-accent-125": {
-      "value": "#af4400",
+      "value": "{green.green-100}",
       "type": "color"
     },
     "color-accent-150": {
-      "value": "#622500",
+      "value": "{green.green-150}",
       "type": "color"
     },
     "color-accent-175": {
-      "value": "#150500",
+      "value": "{green.green-175}",
       "type": "color"
     }
   },
@@ -503,7 +503,7 @@
   },
   "frame": {
     "color-frame-dominant": {
-      "value": "#00366e",
+      "value": "{green.green-100}",
       "type": "color"
     },
     "color-frame-neutral": {
@@ -511,38 +511,38 @@
       "type": "color"
     },
     "color-frame-accent": {
-      "value": "#0070d8",
+      "value": "{green.green-100}",
       "type": "color"
     }
   },
   "hierarchical": {
     "primary": {
       "color-primary-25": {
-        "value": "#edf4fc",
+        "value": "{green.green-25}",
         "type": "color"
       },
       "color-primary-50": {
-        "value": "#cae0f6",
+        "value": "{green.green-50}",
         "type": "color"
       },
       "color-primary-75": {
-        "value": "#8abbed",
+        "value": "{green.green-75}",
         "type": "color"
       },
       "color-primary-100": {
-        "value": "#0070d8",
+        "value": "{green.green-100}",
         "type": "color"
       },
       "color-primary-125": {
-        "value": "#0063c2",
+        "value": "{green.green-125}",
         "type": "color"
       },
       "color-primary-150": {
-        "value": "#0051a1",
+        "value": "{green.green-150}",
         "type": "color"
       },
       "color-primary-175": {
-        "value": "#00366e",
+        "value": "{green.green-175}",
         "type": "color"
       },
       "color-primary-opacity-04": {
@@ -640,7 +640,7 @@
     },
     "text-accent": {
       "color-text-accent": {
-        "value": "#0063c2",
+        "value": "{green.green-100}",
         "type": "color"
       }
     },
