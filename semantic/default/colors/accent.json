@@ -13,7 +13,7 @@
       "type": "color"
     },
     "color-accent-100": {
-      "value": "{green.green-100}",
+      "value": "{accent.color-accent-100}",
       "type": "color"
     },
     "color-accent-125": {
